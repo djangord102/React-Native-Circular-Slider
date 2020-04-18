@@ -101,14 +101,3 @@ If you'd rather build it locally, follow these steps:
   npm install
   ```
 3. Open the project with XDE
-
-
-## Author
-
-Bartosz Gryszko (b@gryszko.com)
-
-For new components and updates [follow me on twitter](http://twitter.com/bgryszko).
-
-## License
-
-MIT
